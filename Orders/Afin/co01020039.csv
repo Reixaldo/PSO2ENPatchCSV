@@ -1,4 +1,4 @@
 Title#0,"""Uneasy Medical Center"""
-Explanation#0,"""うーっす、相棒！<br>メディカルセンターって利用してるか？<br>怪我の時だけじゃないんだぜ、あそこ。<br>能力底上げのドリンクなんかを<br>出してるんだってよ。<br>その効果は確かみたいだし<br>ちょっくら使ってきてみたらどうだ？<br>……ああ、いや、毒味させようって<br>ワケじゃないんだよ！\u3000おれも飲むから！"""
+Explanation#0,"""<yellow>This order has expired. <br>If you have completed its <br>objective(s), you can turn it in. <br>If not, please cancel the <br>order as it can no longer <br>be completed.<c>"""
 Errand#0,"""Use any drink from the Medical Center."""
 Reward#0,"""Unlock various medical drinks"""
